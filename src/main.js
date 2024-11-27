@@ -8,12 +8,6 @@ const fonts = {
         italics: './fonts/Arimo/Arimo-Italic.ttf',
         bolditalics: './fonts/Arimo/Arimo-BoldItalic.ttf',
     },
-    Roboto: {
-        normal: './fonts/Roboto/Roboto-Regular.ttf',
-        bold: './fonts/Roboto/Roboto-Bold.ttf',
-        italics: './fonts/Roboto/Roboto-Italic.ttf',
-        bolditalics: './fonts/Roboto/Roboto-BoldItalic.ttf',
-    },
 };
 
 const tableLayouts = {};
